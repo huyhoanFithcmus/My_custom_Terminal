@@ -1,16 +1,16 @@
-# :) My custom terminal 
+# ![car](/icons/plane.png) My custom terminal 
 
-### :D Ở bài viết này mình sẽ hướng dẫn các bạn xem cách mình custom terminal của mình 
+### ![car](/icons/plane.png) Ở bài viết này mình sẽ hướng dẫn các bạn xem cách mình custom terminal của mình 
 
-### :D Mình custom terminal của mình theo video của một anh người Nhật tên là  [Takuya Matsuyama](https://www.craftz.dog), một Fullstack developer người Nhật
+### ![car](/icons/plane.png) Mình custom terminal của mình theo video của một anh người Nhật tên là  [Takuya Matsuyama](https://www.craftz.dog), một Fullstack developer người Nhật
 
-## :D Đây là video của anh người nhật mình đã làm theo và custom terminal của mình theo, hệ điều hành hiện tại mình đang sử dụng là hệ điều hành [Windows 11](https://www.microsoft.com/vi-vn/windows/windows-11?r=1)
+## ![car](/icons/plane.png) Đây là video của anh người nhật mình đã làm theo và custom terminal của mình theo, hệ điều hành hiện tại mình đang sử dụng là hệ điều hành [Windows 11](https://www.microsoft.com/vi-vn/windows/windows-11?r=1)
 
 [![How to set up PowerShell prompt with Oh My Posh on Windows 11](https://img.youtube.com/vi/5-aK2_WwrmM/0.jpg)](https://www.youtube.com/watch?v=5-aK2_WwrmM)
 
-### Các bạn có thể làm theo hướng dẫn của anh ấy, nếu các bạn gặp khó khăn trong việc custom terminal thì mình sẽ chỉ cho các bạn ở bài viết dưới đây nhé 
+### ![car](/icons/plane.png) Các bạn có thể làm theo hướng dẫn của anh ấy, nếu các bạn gặp khó khăn trong việc custom terminal thì mình sẽ chỉ cho các bạn ở bài viết dưới đây nhé 
 
-# :D :D :D :D :D :D :D :D :D :D :D :D :D 
+# ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png)
 
 ## 1. Tải Font có tên là Hack Nerd Font
 
@@ -270,4 +270,4 @@ nvim user_profile.ps1
 
 ## Vậy là xong rồi, chúc bạn thành công :D
 
-# :D :D :D :D :D :D :D :D :D :D :D :D 
+ ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png) ![car](/icons/car.png)
