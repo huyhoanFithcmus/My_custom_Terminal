@@ -57,7 +57,7 @@
 - Vào window terminal và gõ lệnh sau
 
 ``` powershell
-useb get.scoop.sh | iex
+iwr -useb get.scoop.sh | iex
 ```
 
 ## 3.1. Cài đặt Curl và JQuery
